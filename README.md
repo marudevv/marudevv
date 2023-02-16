@@ -5,7 +5,7 @@
 <div/>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/marc-garcia-izquierdo/">
-    <img src="https://img.shields.io/badge/<Linkedln>-<informational>" alt="Linkedln Badge" />  
+    <img src="https://img.shields.io/badge/<Linkedln>-<blue>" alt="Linkedln Badge" />  
   <a/>
 <div/>
                                                                                                           
@@ -37,7 +37,7 @@
     
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pachxmama&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
     
- ![Pachxmama GitHub stats](https://github-readme-stats.vercel.app/api?username=Pacxhmama&show_icons=true&theme=transparent)
+ ![Pachxmama GitHub stats](https://github-readme-stats.vercel.app/api?username=Pachxmama&show_icons=true&theme=transparent)
     
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pachxmama&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
