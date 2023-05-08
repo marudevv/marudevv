@@ -12,9 +12,10 @@
 ---
                                                                                          
 ### 👨‍💻 About Me:
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.Js, React, SQL**
-- 📫 How to reach me: **marc.ener.garcia@gmail.com**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.Js, React, SQL, Tailwindcss**
+- 📫 How to reach me: **marc.ener.garcia@gmail.com or Linkdin 🔝**
 - 🌱 I’m currently learning **Typescript, Python**
+- 🐛 Have ever used: **Deno**
 
 
 <div align="left">
