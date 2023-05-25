@@ -12,7 +12,7 @@
 ---
                                                                                          
 ### 👨‍💻 About Me:
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.Js, React, SQL, Tailwindcss**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.Js, React, GIT, SQL, Tailwindcss**
 - 📫 How to reach me: **marc.ener.garcia@gmail.com or Linkdin 🔝**
 - 🌱 I’m currently learning **Typescript, Python**
 - 🐛 Have ever used: **Deno**
