@@ -38,10 +38,10 @@
                                                                                          
 ### 📊 My Stats:
     
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pachxmama&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Marudevv&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
     
- ![Pachxmama GitHub stats](https://github-readme-stats.vercel.app/api?username=Pachxmama&show_icons=true&theme=transparent)
+ ![Pachxmama GitHub stats](https://github-readme-stats.vercel.app/api?username=Marudevv&show_icons=true&theme=transparent)
     
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pachxmama&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marudevv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
