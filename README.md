@@ -12,9 +12,9 @@
 ---
                                                                                          
 ### 👨‍💻 About Me:
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.Js, React, GIT, SQL, Tailwindcss**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.Js, React, GIT, MySQL, Tailwindcss, Three.Js**
 - 📫 How to reach me: **marudevv@gmail.com or Linkdin 🔝**
-- 🌱 I’m currently learning **Typescript, Python**
+- 🌱 I’m currently learning **Typescript, Python, Flask**
 - 🐛 Have ever used: **Deno**
 
 
@@ -31,6 +31,8 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Three.Js" alt="Three.Js" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   </div>
 </div>
     
