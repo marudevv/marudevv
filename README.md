@@ -12,8 +12,9 @@
 ---
                                                                                          
 ### 👨‍💻 About Me:
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.Js, React, GIT, MySQL, Tailwindcss, Three.Js**
-- 📫 How to reach me: **marudevv@gmail.com or Linkdin 🔝**
+- 🚀 Languages **HTML, CSS, JavaScript, Node.Js, Express,  React, GIT, MySQL, Tailwindcss, Three.Js**
+- 🔭 Tools **GitHub, Notion**
+- 📫 How to reach me: **marckstrife@hotmail.com or Linkdin 🔝**
 - 🌱 I’m currently learning **Typescript, Python, Flask**
 - 🐛 Have ever used: **Deno**
 
@@ -33,7 +34,8 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Three.Js" alt="Three.Js" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  </div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+         
 </div>
     
 ---
