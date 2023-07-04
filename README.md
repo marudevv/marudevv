@@ -13,7 +13,7 @@
                                                                                          
 ### 👨‍💻 About Me:
 - 🚀 Languages **HTML, CSS, JavaScript, Node.Js, Express,  React, GIT, MySQL, Python, Tailwindcss, Three.Js**
-- 🔭 Tools **GitHub, Notion**
+- 🔭 Tools **GitHub, Notion, Postman**
 - 📫 How to reach me: **marckstrife@hotmail.com or Linkdin 🔝**
 - 🌱 I’m currently learning **Typescript, Flask**
 - 🐛 Have ever used: **Deno**
