@@ -12,8 +12,8 @@
 ---
                                                                                          
 ### 👨‍💻 About Me:
-- 🚀 Languages **HTML, CSS, JavaScript, Node.Js, Express,  React, GIT, MySQL, Python, Tailwindcss, Three.Js**
-- 🔭 Tools **GitHub, Notion, Postman, Latex**
+- 🚀 Languages **HTML, CSS, JavaScript, Node.Js, Express,  React, GIT, MySQL, SQLite, Python, Tailwindcss, Three.Js**
+- 🔭 Tools **GitHub, Notion, Postman, Latex, GitHub**
 - 📫 How to reach me: **marckstrife@hotmail.com or Linkdin 🔝**
 - 🌱 I’m currently learning **Typescript, Java**
 - 🐛 Have ever used: **Deno**
@@ -33,7 +33,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Three.Js" alt="Three.Js" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
          
 </div>
