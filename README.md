@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"           width="200" />
   <h1 align="center">Hi 👋, I'm Marc </h1>
-  <h2 align="center">A passionate web fullstack developer from Spain. Trained as a web developer in a Bootcamp, currently studying a Bachelor of Computer   Science and a degree in industrial and automatic electronic engineering</h2> 
+  <h2 align="center">A passionate web fullstack developer from Spain. Trained as a web developer in a Bootcamp, currently studying a Bachelor of Computer   Science</h2> 
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/marc-garcia-izquierdo/">
@@ -13,7 +13,7 @@
                                                                                          
 ### 👨‍💻 About Me:
 - 🚀 Languages **HTML, CSS, JavaScript, Node.Js, Express,  React, GIT, MySQL, SQLite, Python, Tailwindcss, Three.Js**
-- 🔭 Tools **GitHub, Notion, Postman, Latex, GitHub, Excel**
+- 🔭 Tools **GitHub, Notion, Postman, Latex, GitHub, Excel, Anaconda, Google Colab**
 - 📫 How to reach me: **marckstrife@hotmail.com or Linkdin 🔝**
 - 🌱 I’m currently learning **Typescript, Java**
 - 🐛 Have ever used: **Deno**
